@@ -1,3 +1,12 @@
 # Santiago_1st
 test1
-Felis navidat!
+ patch-1
+Feliz navidad!
+=======
+main
+
+## Technology stack
+
+- JavaScript
+- CSS
+
